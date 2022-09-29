@@ -37,7 +37,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Webプログラミングを愛しています。
+          Nextjsエンジニアです。 Webプログラミングを愛しています。
           新卒でSIerに就職→2か月で退職→講師業で月70万円達成→
           起業→Shinブログ開設→今ここ。
           ブログ内容はプログラミングorビジネスがメイン
